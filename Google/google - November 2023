@@ -1,0 +1,44 @@
+Phone Screen
+He directly jumped into questions without intro.Asked me to open a doc and shared a question over there
+Q. You need to insert a range of element in DS and search a point within that range.
+First Approach:- Using HashMap
+He interrupted and said "Say you are using list then how would you write it?"
+
+I wrote structure of class and functions
+Sugesstion he gave on the go:
+->Name class properly Pairs not Pair
+->return in query
+->Initialisation in constructor
+
+Iterative approach and time complexity we discussed
+Then  he asked to optimize.So I came up with binary Search a point in list of pairs. WIth that we need sorting of list.
+
+
+Onsites:
+Tip:- Be ready to think through through problem: Ready with alternative solutions for a problem
+
+Onsite 1:
+Given Keyboard in form of List<List> and we have to find whether we can type a word or not from that keyboard.
+Also We can jump maximum jump_distance from a character.
+https://leetcode.com/problems/word-search-ii/description/
+
+Onsite 2:
+Managerial round but interviewer doesnt appeared.
+
+Onsite 3:
+Course Schedule
+https://leetcode.com/problems/course-schedule/description/
+
+Onsite 4:
+Given English text language and width of page. Calculate how many lines would it cover?
+English lan = str
+width = L
+ceil(len(str)/L)
+
+Clarifying questions:- if word.length > width
+
+Verdict: Rejected
+
+Reason:- 
+Could not cover all edge cases
+Code quality
